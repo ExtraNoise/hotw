@@ -1,0 +1,22 @@
+[
+	{
+		"nationID": 0,
+		"name": "France",
+		"properties": {
+			"age": 6,
+			"government": "Republic"
+		},
+		"nationID": 1,
+		"name": "Germany",
+		"properties": {
+			"age": 7,
+			"government": "Despot"
+		},
+		"nationID": 2,
+		"name": "Britain",
+		"properties": {
+			"age": 5,
+			"government": "Monarchy"
+		}
+	}
+]

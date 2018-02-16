@@ -1,0 +1,37 @@
+[
+	{
+		"stateID": 0,
+		"name": "London",
+		"owner": 2,
+		"size": 4,
+		"military": 1,
+		"properties": {
+			"ethnicity": "European",
+			"culture": "European",
+			"language": "English",
+			"religion": "Beerism",
+		},
+		"stateID": 1,
+		"name": "Paris",
+		"owner": 0,
+		"size": 3,
+		"military": 3,
+		"properties": {
+			"ethnicity": "European",
+			"culture": "European",
+			"language": "French",
+			"religion": "Beerism",
+		},
+		"stateID": 2,
+		"name": "Berlin",
+		"owner": 1,
+		"size": 2,
+		"military": 5,
+		"properties": {
+			"ethnicity": "European",
+			"culture": "European",
+			"language": "German",
+			"religion": "Beerism",
+		}
+	}
+]
